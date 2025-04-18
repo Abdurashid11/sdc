@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Roboto", sans-serif;  
+}
+body{
+    background: #000000;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(94, 94, 94, 1) 100%);
+    height: 2000px;
+}
+hr{
+    width: 50px;
+    margin: 10px 0px 10px 20px;
+}
+
+
+/* //////////////// 1 \\\\\\\\\\\\\\\\\\\\\ */
+.div1{
+    margin: 0px 0px 0px 0px;
+}
+
+#element{
+    margin: 0px 0px 0px 450px;
+    display: flex;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+    margin-top: 150px;
+    color: red;
+    background: linear-gradient(to right, salmon, turquoise);
+    color: transparent;
+    background-clip: text;
+    display: inline-block;
+}
+
+#element1{
+    margin: 0px 0px 0px 600px;
+    font-size: 25px;
+    color: white;
+}
+
+
+/* ///////////////////////// 2 \\\\\\\\\\\\\\\\\\\\\\\\\ */
+
+.div2{
+    width: 700px;
+    height: 600px;
+    margin: 400px 0px 50px 400px;
+    padding: 240px 0px 0px 50px;
+    font-size: 20px;
+    font-weight: 300;
+    background-color: #383838;
+    box-shadow: 5px 5px 5px white;
+}
+
+#element2{
+    background: linear-gradient(to right, rgb(53, 174, 255), rgb(132, 247, 235));
+    color: transparent;
+    background-clip: text;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#element3{
+    background: linear-gradient(to right, rgb(53, 174, 255), rgb(132, 247, 235));
+    color: transparent;
+    background-clip: text;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#element4{
+    color: white;
+    font-size: 22px;
+}
+
+#element5{
+    color: white;
+    font-size: 22px;
+}
+
+
+
+
+
+/* ////////////////////////// 3 \\\\\\\\\\\\\\\\\\\\\\\\\\ */
+.div3{
+    width: 700px;
+    height: 600px;
+    margin: 0px 0px 0px 400px;
+    border: 2px solid red;
+    padding: 50px 0px 0px 50px;
+    font-size: 60px;
+    background-color: red;
+    color: white;
+    box-shadow: 5px 5px 5px white;
+}
+.hr1{
+    width: 166px;
+    height: 5px;
+    margin: -8px 0px 30px 0px;
+    background-color: yellow;
+    border: none;
+}
+.div3 img{
+    width: 300px;
+    height: 350px;
+    margin: 40px 0px 0px 350px;
+    transition: all 1s;
+}
+
+
+
+
+
+
+
+
